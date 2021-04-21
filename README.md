@@ -1,7 +1,15 @@
 # EX_MARKDOWN
 
+기획, 설계, 테스트 등의 이미지를 올리면 된다.
+
+### 8. 강조
+**Spring** 이 지나가고 있네요.  
+*Spring* 이 지나가고 있네요
+
+
 ### 7.하이퍼링크
-[e클래스 cate](https://cafe.naver.com/kndjang "e클래스의 cafe입니다.")
+[e클래스 cate](https://cafe.naver.com/kndjang "e클래스의 cafe입니다.")  
+
 
 ### 6. 가로선
 ---
