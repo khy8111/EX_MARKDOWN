@@ -1,8 +1,17 @@
 # EX_MARKDOWN
 
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|  
+|:-------|:-------|:-------:|-------:|:-------|:-------:|  
+|1      |james  |이상무 |1      |jamesol@paran.com| 9:00|
+|2      |**james**  |이상무 |1      |jamesol@paran.com| 9:00|
+|3      |james  |이상무 |1      |jamesol@paran.com| 9:00|
+|4      |james  |이상무 |1      |jamesol@paran.com| 9:00|
+|5      |james  |이상무 |1      |jamesol@paran.com| 9:00|
+
 ### 9. 이미지 넣기
 기획, 설계, 테스트 등의 이미지를 올리면 된다.  
-![]
+![Eclass210421](https://github.com/khy8111/EX_MARKDOWN/blob/main/image12.png "수업자료입니다")
 
 ### 8. 강조
 **Spring** 이 지나가고 있네요.  
